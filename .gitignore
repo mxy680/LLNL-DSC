@@ -1,0 +1,5 @@
+# Ignore env file
+env
+
+# Ignore src/data directory
+src/data/
